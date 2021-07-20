@@ -1,0 +1,50 @@
+[{
+    "name": "OREGANO",
+    "type": "Herbal",
+    "SCIENTIFIC_NAME": "Origanum vulgare",
+    "DESCRIPTION": "called origanum or wild marjoram, aromatic perennial herb of the mint family (Lamiaceae) known for its flavourful dried leaves and flowering tops. Oregano is native to the hills of the Mediterranean countries and western Asia and has naturalized in parts of Mexico and the United States. The herb has long been an essential ingredient of Mediterranean cooking and is widely used to season many foods. Culinary varieties, such as Greek or Italian oregano, have a strong aroma and a warm pungent taste. Ornamental cultivars are typically more bland in flavour and not suitable for cooking. ",
+    "MEDICAL_INDICATIONS": "As herbal medicine, gumamela flower, leaves and roots are used. Gumamela has the following medicinal characteristics: expectorant, diuretic, emollient, anti-infectious, anti-inflammatory, antipyretic, anodyne and refrigerant.",
+    "APPLICATIONS_AND_USES": "Oregano is usually grown as a small evergreen subshrub in mild climates. Its compact oval leaves are arranged oppositely and are covered with glandular trichomes (plant hairs). The young stems are typically square and hairy and become woody with age. The flowers are small and borne in clusters; they range in colour from white to pink or pale purple. All varieties contain essential oil, the principal components of which are thymol and carvacrol. People around the Mediterranean region have used oregano for centuries in herbal medicine to treat many ailments, including: skins sores. aching muscles.",
+    "PARTS_USED": "Leaves",
+    "PLANT_PREPARATION": "Place 3 to 5 leaves of this common herb in a pot of hot water for 15 minutes. Drink the resulting mixture to relieve cough and colds."
+  },
+  {
+    "name": "BASTON DE SAN JOSE",
+    "type": "Herbal",
+    "SCIENTIFIC_NAME": "CORDYLINE FRUTICOSA",
+    "DESCRIPTION": "Cordyline fruticosa is an evergreen flowering plant in the family Asparagaceae. The plant is of great cultural importance to the traditional animistic religions of Austronesian and Papuan peoples of the Pacific Islands, New Zealand, Island Southeast Asia, and Papua New Guinea. It is also cultivated for food, traditional medicine, and as an ornamental for its variously colored leaves. It is identified by a wide variety of common names, including ti plant, palm lily, cabbage palm, and good luck plant.",
+    "MEDICAL_INDICATIONS": "FEVER",
+    "APPLICATIONS_AND_USES": "BOIL LEAVES ROOTS AND STEM AND DRINK",
+    "PARTS_USED": "Leaves",
+    "PLANT_PREPARATION": "Method of Preparation: Poultice 7 leaves. Direction for use: 3x a day"
+  },
+  {
+    "name": "INSULIN",
+    "type": "Herbal",
+    "SCIENTIFIC_NAME": "CHAMAECOSTUS CUSPIDATUS",
+    "DESCRIPTION": "Chamaecostus cuspidatus, common name fiery costus or spiral flag, is a species of herbaceous plant in the family Costaceae native to eastern Brazil (States of Bahia and Espirito Santo).In India, it is known as insulin plant for its purported anti-diabetic properties.",
+    "MEDICAL_INDICATIONS": "Costus Igneus also known as Insulin Plant (Chamaecostus cuspidatus) is known for its medicinal properties. It is helpful to treat Type-2 diabetes. The plant is known by varieties of a name in different parts of the world. Some call it tabubungiaw while some call it spiral flag.",
+    "APPLICATIONS_AND_USES": "Boiling two leaves of the insulin plant and drinking it twice a day (morning and evening) for 10 days could stabilize the blood sugar.",
+    "PARTS_USED": "Leaves",
+    "PLANT_PREPARATION": "Boil two leaves of the insulin plant and drink it"
+  },
+  {
+    "name": "POTHOS PLANT",
+    "type": "Ornamental",
+    "SCIENTIFIC_NAME": "EPIPREMNUM AUREUM",
+    "DESCRIPTION": "Pothos is a tropical vine, which is commonly grown as a houseplant. It’s widely grown indoors for ornamental purposes and due to its low maintenance and tolerance to low light conditions. However, there’s more than that–Several amazing Golden Pothos Plant Benefits, attested in recent research and studies, which makes it one of the most beneficial houseplants.",
+    "MEDICAL_INDICATIONS": "Pothos plants are arguably one of the easiest plants to grow and actually thrive on low light and neglect. These plants serve to purify the air of formaldehyde, benzene and carbon monoxide while also helping eliminate odors. Pothos can also help alleviate eye irritation after long days of staring at screens",
+    "APPLICATIONS_AND_USES": "",
+    "PARTS_USED": "",
+    "PLANT_PREPARATION": ""
+},
+  {
+    "name": "SNAKE PLANT",
+    "type": "Ornamental",
+    "SCIENTIFIC_NAME": "DRACAENA TRIFASCIATA",
+    "DESCRIPTION": "The snake plant (Sansevieria Trifasciata), also called mother in law's tongue, has thick, leathery leaves that stand two to four feet tall. ... It's most popular use is as an indoor, decorative plant. Its leaves are variegated with light-colored blotches, and are often bordered with a yellow trim.",
+    "MEDICAL_INDICATIONS": "The Snake Plant cleans air better than most other indoor plants as it has the ability to absorb excessive amounts of carbon monoxide. Additionally, it emits oxygen and filters other toxins from the air such as benzene, xylene, trichloroethylene and formaldehyde. When placed in office and home spaces Snake Plants can assist in increasing productivity, decreasing stress, fostering happy vibes and enriching overall well-being and health.",
+    "APPLICATIONS_AND_USES": "",
+    "PARTS_USED": "",
+    "PLANT_PREPARATION": ""
+}]
